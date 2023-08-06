@@ -1,0 +1,2 @@
+# LinearDiscriminantAnalysis
+We are performing LDA on 2 different data sets with different number of attributes. In the first code we will compare performance of the manual implementation with the performance of SKLearn's in-built implementation and plot the differences. In the second code, the main objective is to find the most optimal value of the threshold. and calculate the confusion matrices for the default and the most optimal value of the threshold.
